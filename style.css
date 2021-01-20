@@ -1,0 +1,89 @@
+/*lets desine it*/
+body{
+    background-color: gray;
+}
+#btns{
+    height: 50px;
+    width: 40px;
+    background-color: yellowgreen;
+    cursor: pointer;
+    border-radius: 100%;
+    font-size:30px;
+}
+#inpt{
+    width: 170px;
+    height: 40px;
+    background-color: mediumspringgreen;;
+    font-size: 18px;
+    cursor: no-drop;
+    border-radius: 80%;
+}
+#text{
+    width: 80px;
+    height: 20px;
+    background-color:white;
+}
+#btn{
+    height: 50px;
+    width: 40px;
+    background-color: yellowgreen;
+    cursor: pointer;
+    border-radius: 100%;
+    font-size:30px;
+}
+#btn:hover{
+    background-color: blue;
+}
+#dont:hover{
+    background-color: red;
+}
+#dont{
+    height: 50px;
+    width: 40px;
+    background-color: yellowgreen;
+    border-radius: 100%;
+    font-size:30px;
+}
+#youcan{
+    height: 310px;
+    width: 200px;
+    background-color: aqua;;
+}
+#last:hover{
+    background-color: blue;
+}
+#last{
+    height: 50px;
+    width: 40px;
+    background-color: yellowgreen;
+    cursor: pointer;
+    border-radius: 100%;
+    font-size:30px;
+}
+#clear{
+    height: 30px;
+    width: 165px;
+    
+    border-radius: 30px;
+    background-color: red;
+}
+#clear:hover{
+    background-color:green;}
+ h5{
+     color: yellowgreen;
+ }
+ h1{
+     color: black;
+ }   
+ #lo{
+    height: 50px;
+    width: 40px;
+    background-color: yellowgreen;
+    cursor: pointer;
+    border-radius: 100%;
+    font-size:30px;
+ }
+ #lo:hover{
+     background-color: blue;
+ }
+ /*style only 70 lines*/
